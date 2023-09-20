@@ -333,4 +333,17 @@ span {
   cursor: pointer;
 }
 
+.footer {
+  display: flex;
+  padding: 2rem 9%;
+  flex-wrap: wrap;
+  background: var(--second-bg-color);
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-text p {
+  font-size: 1.6rem;
+}
+
 /*# sourceMappingURL=style.css.map */
